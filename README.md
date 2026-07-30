@@ -1,4 +1,4 @@
-# tinyjpg
+# tinyjpg-cli
 
 一个使用 Go 编写的命令行图片压缩工具，调用 TinyJPG / TinyPNG 官方压缩接口，对 JPEG、PNG、WebP 图片进行无感压缩，并直接覆盖原文件。
 
